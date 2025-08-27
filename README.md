@@ -1,2 +1,4 @@
-# dart-flutterando
-Curso Basico de logica de programaçao co dart!
+# logica-com-dart-flutterando
+# logica-com-dart-flutterando
+# logica-com-dart-flutterando
+# logica-com-dart-flutterando
